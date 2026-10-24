@@ -154,17 +154,17 @@ mandi-price-pulse/
 ### Page 1: Best Time to Sell
 Pick a crop and instantly see its best and worst month, average price, volatility and peak-to-floor ratio.
 
-![Best Time to Sell](images/01_best_time_to_sell.png)
+![Best Time to Sell](Dasboard_img_best_time_to_sell.PNG)
 
 ### Page 2: Price Trends and Risk
 Year-by-year monthly price curves, a Commodity × Year matrix with YoY change, and volatility by crop.
 
-![Price Trends and Risk](images/02_price_trends_risk.png)
+![Price Trends and Risk](Price_Trend&Risk_img.PNG)
 
 ### Page 3: Markets and Supply Impact
 Average price by market (with State and Year slicers) and a combo chart that compares arrivals to price by month.
 
-![Markets and Supply Impact](images/03_market_supply_impact.png)
+![Markets and Supply Impact](Market&Supply_impact_img.PNG)
 
 ### Key DAX measures
 
