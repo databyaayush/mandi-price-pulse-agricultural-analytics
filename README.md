@@ -8,7 +8,7 @@ Which month, which market and which crop gives a farmer the best price for onion
 ![DAX](https://img.shields.io/badge/DAX-Measures-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-![Dashboard preview](images/01_best_time_to_sell.png)
+![Dashboard preview](Dasboard_img_best_time_to_sell.PNG)
 
 ---
 
