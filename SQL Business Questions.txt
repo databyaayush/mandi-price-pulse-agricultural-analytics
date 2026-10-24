@@ -1,0 +1,10 @@
+1. What is the average modal price of onion, tomato and wheat in each month of the year?
+2. What is the best month to sell each crop, and the worst month?
+3. What is the best 3-month selling window for each crop?
+4. What is the price volatility of each commodity, and which one is riskiest for farmers?
+5.What was the biggest month-on-month price spike or crash for each crop?
+6. What is the year-on-year price change for each commodity from 2021 to 2025?
+7. Who (which market) pays the highest average price for each commodity?
+8. Who (which state or market) has the most stable prices, with the lowest volatility?
+9. Why do prices fall in certain months? Is it because more produce arrives (arrivals vs price by month)?
+10. Why is tomato more volatile than wheat? Compare price spread (Max − Min), arrivals swings and price floors.
